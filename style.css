@@ -1,0 +1,45 @@
+.body {
+    margin: 0;
+    font-family:'Roboto', sans-serif; 
+}
+
+.primeiraparte {
+    display: flex;
+    background-image: url(img/background2.png); 
+    background-size: cover;
+    border-top: 10px solid rgb(83,198,94);
+
+}
+.banner {
+    color: white;
+    margin: auto;
+    
+    
+   
+}
+.banner h1 {
+    
+    font-family: 'Pacifico';
+    font-size: 46px;
+  
+    justify-content: center;
+    position: relative;
+}
+
+.banner p {
+    color: white;
+    justify-content: center;
+
+}
+.icones {
+    display: flex;
+}
+.ponto {
+    width: 21px;
+    height: 21px;
+    
+     background-color: rgb(83,198,94);
+     position:absolute;
+     border-radius: 100%;
+}
+
